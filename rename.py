@@ -1,6 +1,6 @@
 from pathlib import Path
 
-folder = Path(r"F:\F\School\3\CS4391\Pro\real_objects\0502T161549Ph")
+folder = Path(r"F:\F\School\3\CS4391\Pro\real_objects\0502T161549S")
 
 image_extensions = [".jpg"]
 

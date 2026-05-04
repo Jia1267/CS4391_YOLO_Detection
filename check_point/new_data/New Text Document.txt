@@ -1,0 +1,50 @@
+(cs4391) PS F:\F\School\3\CS4391\Pro> python .\make_split.py --root .\objects\
+0: Keyboard | total=154, train=107, val=23, test=24
+1: Laptop | total=100, train=70, val=15, test=15
+2: Mouse | total=94, train=65, val=14, test=15
+3: Pen | total=120, train=84, val=18, test=18
+4: Phone | total=104, train=72, val=15, test=17
+
+Wrote: F:\F\School\3\CS4391\Pro\split.json
+Classes: 5
+Train/Val/Test: 398/85/89
+(cs4391) PS F:\F\School\3\CS4391\Pro> python hw_part2_train_scratch_vs_pretrained.py --split split.json --model pretrained --pretrained --epochs 10 --save_best --tag pretrained_ft
+== Part 2: pretrained_ft ==
+Classes: 5
+Train/Val/Test: 398/85/89
+Device: cuda
+Out: runs\part2\pretrained_ft
+Epoch 01/10  loss=0.4314  val_acc=47.06%
+Epoch 02/10  loss=0.1834  val_acc=47.06%
+Epoch 03/10  loss=0.2396  val_acc=72.94%
+Epoch 04/10  loss=0.1273  val_acc=84.71%
+Epoch 05/10  loss=0.0789  val_acc=83.53%
+Epoch 06/10  loss=0.0828  val_acc=83.53%
+Epoch 07/10  loss=0.1704  val_acc=84.71%
+Epoch 08/10  loss=0.0911  val_acc=67.06%
+Epoch 09/10  loss=0.0513  val_acc=85.88%
+Epoch 10/10  loss=0.0818  val_acc=88.24%
+TEST accuracy: 88.76%
+Wrote: runs\part2\pretrained_ft\predictions_test.csv
+Saved plot: runs\part2\pretrained_ft\training_curves.png
+(cs4391) PS F:\F\School\3\CS4391\Pro>
+(cs4391) PS F:\F\School\3\CS4391\Pro> python hw_part2_train_scratch_vs_pretrained.py --split split.json --model scratch --epochs 10 --tag scratch
+== Part 2: scratch ==
+Classes: 5
+Train/Val/Test: 398/85/89
+Device: cuda
+Out: runs\part2\scratch
+Epoch 01/10  loss=1.5700  val_acc=27.06%
+Epoch 02/10  loss=1.5038  val_acc=22.35%
+Epoch 03/10  loss=1.4571  val_acc=25.88%
+Epoch 04/10  loss=1.4028  val_acc=37.65%
+Epoch 05/10  loss=1.3594  val_acc=43.53%
+Epoch 06/10  loss=1.2797  val_acc=44.71%
+Epoch 07/10  loss=1.2723  val_acc=45.88%
+Epoch 08/10  loss=1.1786  val_acc=54.12%
+Epoch 09/10  loss=1.1644  val_acc=52.94%
+Epoch 10/10  loss=1.0759  val_acc=52.94%
+TEST accuracy: 56.18%
+Wrote: runs\part2\scratch\predictions_test.csv
+Saved plot: runs\part2\scratch\training_curves.png
+(cs4391) PS F:\F\School\3\CS4391\Pro>
