@@ -1,0 +1,10 @@
+1. What is the name of the object in these images?
+pepsi, tin, pepsi can
+2. What is the category of the object in these images?
+food, container, carbonated soft drink, soft drinks
+3. What is the object in these images made of? (list all materials of the object)
+can, aluminum, tin, metal
+4. What can be the object in these images used for? (list all function of the object)
+eating, soda, fill carbonated soft drink, fill fluids
+5. What is the color of the object in these images? (list all colors of the object)
+blue, red, white, silver

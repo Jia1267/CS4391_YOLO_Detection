@@ -1,0 +1,10 @@
+1. What is the name of the object in these images?
+cleaning product, sanitizer, bottle, antibacterial dish soap, palmolive bottle
+2. What is the category of the object in these images?
+bottle, cleaning germs, cleaning, cleaning tool, house cleaning products
+3. What is the object in these images made of? (list all materials of the object)
+plastic, chemicals
+4. What can be the object in these images used for? (list all function of the object)
+store liquid, to kill germs, cleaning, to clean dishes, disinfecting and cleaning
+5. What is the color of the object in these images? (list all colors of the object)
+red, blue, green, white, orange, transparent, colorless

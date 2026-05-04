@@ -1,0 +1,753 @@
+(cs4391) PS F:\F\School\3\CS4391\Pro> python .\hw_part1_dataset_understanding.py --root .\real_objects\
+========== Dataset Statistics ==========
+Number of classes: 337
+Total number of images: 3144
+Images per class: min=9, max=120, mean=9.33
+
+========== Class Mapping ==========
+0: cracker box
+1: pitcher
+2: mug
+3: mustard bottle
+4: mug
+5: banana
+6: bowl
+7: bowl
+8: sponge
+9: bowl
+10: stapler
+11: tape dispenser
+12: pen
+13: wafer roll can
+14: towel
+15: pencil
+16: tape
+17: scissors
+18: soup can
+19: pear
+20: jello box
+21: sugar box
+22: meat can
+23: marker
+24: soft scrub cleanser bottle
+25: scissors
+26: tuna can
+27: food storage container
+28: power drill
+29: coffee can
+30: foam brick
+31: jello box
+32: peach
+33: plate
+34: plate
+35: towel
+36: air purifying bag
+37: pump bottle
+38: water bottle
+39: juice bottle
+40: food storage container
+41: tape
+42: toothbrush
+43: toothpaste
+44: spoon
+45: fork
+46: digestive health box
+47: fork
+48: knife
+49: book
+50: hand sanitizer
+51: tissue box
+52: wrench
+53: pliers
+54: screwdriver
+55: screwdriver
+56: t-handle
+57: tape measure
+58: tape measure
+59: hammer
+60: hammer
+61: hammer
+62: cup
+63: power drill
+64: power drill
+65: remote controller
+66: remote controller
+67: handy pot
+68: spatula
+69: mug
+70: mug
+71: pepper sprinkler
+72: air duster can
+73: wipes bottle
+74: orange
+75: apple
+76: tennis ball
+77: football
+78: cracker box
+79: lemon
+80: strawberry
+81: ball
+82: golf ball
+83: coffee can
+84: padlock
+85: ball of wool
+86: spray bottle
+87: spray bottle
+88: mouse
+89: mouse
+90: pringles can
+91: baseball ball
+92: tong
+93: tong
+94: fork
+95: fork
+96: spoon
+97: spoon
+98: ladle
+99: ladle
+100: knife
+101: knife
+102: spatula
+103: handy pot
+104: bowl
+105: mug
+106: knife
+107: knife
+108: fork
+109: spoon
+110: spatula
+111: plate
+112: plate
+113: newspaper
+114: tong
+115: keyboard
+116: key
+117: mold star bottle
+118: glue bottle
+119: goo gone bottle
+120: beanie
+121: beanie
+122: towel
+123: towel
+124: milk jug
+125: wine bottle
+126: cleaning brush
+127: cleaning brush
+128: electric toothbrush
+129: toothpaste box
+130: drano dual force bottle
+131: comb
+132: sponge
+133: lighter
+134: sunscreen bottle
+135: cream tube
+136: tofu package
+137: pear
+138: carrot
+139: cabbage
+140: tomato
+141: egg box
+142: egg
+143: toothpaste
+144: cable
+145: headphone
+146: headphone
+147: protein bar
+148: sticky notes
+149: marker
+150: pliers
+151: shoe
+152: notebook
+153: water bottle
+154: baseball ball
+155: marker
+156: wood block
+157: wood block
+158: aluminum foil box
+159: hole punch
+160: soda can
+161: soup can
+162: carrying case
+163: thermometer box
+164: keyboard
+165: game controller
+166: tape measure
+167: sugar package
+168: cable
+169: spray bottle
+170: tape dispenser
+171: cable
+172: tissue box
+173: water bottle
+174: headphone
+175: food storage container
+176: slipper
+177: glasses box
+178: travel pillow
+179: folder
+180: tea tin
+181: soda can
+182: flash drive
+183: adapter cable
+184: glove
+185: cellphone
+186: clamp
+187: cup
+188: peanut jar
+189: umbrella
+190: juice bottle
+191: tofu package
+192: palmolive bottle
+193: knife
+194: rinse aid bottle
+195: milk frothing pitcher
+196: scoop
+197: basket
+198: water bottle
+199: eggplant
+200: bell pepper
+201: orange
+202: onion
+203: onion
+204: ginger
+205: watermelon
+206: cucumber
+207: banana
+208: bell pepper
+209: apple
+210: apple
+211: tomato
+212: avocado
+213: potato
+214: sweet potato
+215: garlic
+216: cellphone
+217: watch
+218: wafer roll can
+219: glove
+220: jar
+221: salt bottle
+222: cup
+223: potato masher
+224: salt bottle
+225: bowl
+226: oven glove
+227: spatula
+228: peeler
+229: ladle
+230: ladle
+231: potato starch package
+232: muffin mix box
+233: chili powder bottle
+234: shaver
+235: honey bottle
+236: pizza cutter
+237: cream jar
+238: cereal box
+239: ruler
+240: milk box
+241: salt can
+242: spaghetti spoon
+243: can opener
+244: umbrella
+245: wine glass
+246: glass
+247: charger
+248: pill bottle
+249: watch
+250: scale
+251: clock
+252: spray bottle
+253: hair brush
+254: comb
+255: lemon
+256: trowel
+257: milk box
+258: glue bottle
+259: juice pouch
+260: plant vase
+261: m&m's package
+262: kiwi
+263: coffee bottle
+264: lint roller
+265: goggle
+266: goggle
+267: goggle
+268: bucket
+269: arm filter holder
+270: glass
+271: glass
+272: fig bar box
+273: rinse aid bottle
+274: mask
+275: plate
+276: label marker
+277: slipper
+278: root beer bottle
+279: cream tube
+280: cling wrap box
+281: basting brush
+282: binder
+283: fly pan
+284: handy pot
+285: kettle
+286: instant noodle packet
+287: baking tray
+288: baking tray
+289: baking tray
+290: scissors
+291: camera
+292: timer
+293: wood box
+294: wood plate
+295: battery
+296: wood pestle
+297: rubik's cube
+298: lego block
+299: lego block
+300: soda can
+301: binder
+302: flashlight
+303: food bag
+304: flashlight
+305: ball
+306: lemon
+307: lime
+308: lime
+309: donut sticks box
+310: ball
+311: bulb box
+312: cereal box
+313: bulb box
+314: tuna can
+315: soda can
+316: food bag
+317: toothpaste
+318: soup can
+319: tuna can
+320: toothpaste
+321: soda can
+322: shampoo bottle
+323: cream tube
+324: shampoo bottle
+325: cereal box
+326: food bag
+327: soup can
+328: cereal box
+329: shampoo bottle
+330: ball
+331: chocolate banana box
+332: clamp
+333: glue stick
+334: glue stick
+335: glue stick
+336: Pen
+
+========== Images Per Class ==========
+0: cracker box | images: 9
+1: pitcher | images: 9
+2: mug | images: 9
+3: mustard bottle | images: 9
+4: mug | images: 9
+5: banana | images: 9
+6: bowl | images: 9
+7: bowl | images: 9
+8: sponge | images: 9
+9: bowl | images: 9
+10: stapler | images: 9
+11: tape dispenser | images: 9
+12: pen | images: 9
+13: wafer roll can | images: 9
+14: towel | images: 9
+15: pencil | images: 9
+16: tape | images: 9
+17: scissors | images: 9
+18: soup can | images: 9
+19: pear | images: 9
+20: jello box | images: 9
+21: sugar box | images: 9
+22: meat can | images: 9
+23: marker | images: 9
+24: soft scrub cleanser bottle | images: 9
+25: scissors | images: 9
+26: tuna can | images: 9
+27: food storage container | images: 9
+28: power drill | images: 9
+29: coffee can | images: 9
+30: foam brick | images: 9
+31: jello box | images: 9
+32: peach | images: 9
+33: plate | images: 9
+34: plate | images: 9
+35: towel | images: 9
+36: air purifying bag | images: 9
+37: pump bottle | images: 9
+38: water bottle | images: 9
+39: juice bottle | images: 9
+40: food storage container | images: 9
+41: tape | images: 9
+42: toothbrush | images: 9
+43: toothpaste | images: 9
+44: spoon | images: 9
+45: fork | images: 9
+46: digestive health box | images: 9
+47: fork | images: 9
+48: knife | images: 9
+49: book | images: 9
+50: hand sanitizer | images: 9
+51: tissue box | images: 9
+52: wrench | images: 9
+53: pliers | images: 9
+54: screwdriver | images: 9
+55: screwdriver | images: 9
+56: t-handle | images: 9
+57: tape measure | images: 9
+58: tape measure | images: 9
+59: hammer | images: 9
+60: hammer | images: 9
+61: hammer | images: 9
+62: cup | images: 9
+63: power drill | images: 9
+64: power drill | images: 9
+65: remote controller | images: 9
+66: remote controller | images: 9
+67: handy pot | images: 9
+68: spatula | images: 9
+69: mug | images: 9
+70: mug | images: 9
+71: pepper sprinkler | images: 9
+72: air duster can | images: 9
+73: wipes bottle | images: 9
+74: orange | images: 9
+75: apple | images: 9
+76: tennis ball | images: 9
+77: football | images: 9
+78: cracker box | images: 9
+79: lemon | images: 9
+80: strawberry | images: 9
+81: ball | images: 9
+82: golf ball | images: 9
+83: coffee can | images: 9
+84: padlock | images: 9
+85: ball of wool | images: 9
+86: spray bottle | images: 9
+87: spray bottle | images: 9
+88: mouse | images: 9
+89: mouse | images: 9
+90: pringles can | images: 9
+91: baseball ball | images: 9
+92: tong | images: 9
+93: tong | images: 9
+94: fork | images: 9
+95: fork | images: 9
+96: spoon | images: 9
+97: spoon | images: 9
+98: ladle | images: 9
+99: ladle | images: 9
+100: knife | images: 9
+101: knife | images: 9
+102: spatula | images: 9
+103: handy pot | images: 9
+104: bowl | images: 9
+105: mug | images: 9
+106: knife | images: 9
+107: knife | images: 9
+108: fork | images: 9
+109: spoon | images: 9
+110: spatula | images: 9
+111: plate | images: 9
+112: plate | images: 9
+113: newspaper | images: 9
+114: tong | images: 9
+115: keyboard | images: 9
+116: key | images: 9
+117: mold star bottle | images: 9
+118: glue bottle | images: 9
+119: goo gone bottle | images: 9
+120: beanie | images: 9
+121: beanie | images: 9
+122: towel | images: 9
+123: towel | images: 9
+124: milk jug | images: 9
+125: wine bottle | images: 9
+126: cleaning brush | images: 9
+127: cleaning brush | images: 9
+128: electric toothbrush | images: 9
+129: toothpaste box | images: 9
+130: drano dual force bottle | images: 9
+131: comb | images: 9
+132: sponge | images: 9
+133: lighter | images: 9
+134: sunscreen bottle | images: 9
+135: cream tube | images: 9
+136: tofu package | images: 9
+137: pear | images: 9
+138: carrot | images: 9
+139: cabbage | images: 9
+140: tomato | images: 9
+141: egg box | images: 9
+142: egg | images: 9
+143: toothpaste | images: 9
+144: cable | images: 9
+145: headphone | images: 9
+146: headphone | images: 9
+147: protein bar | images: 9
+148: sticky notes | images: 9
+149: marker | images: 9
+150: pliers | images: 9
+151: shoe | images: 9
+152: notebook | images: 9
+153: water bottle | images: 9
+154: baseball ball | images: 9
+155: marker | images: 9
+156: wood block | images: 9
+157: wood block | images: 9
+158: aluminum foil box | images: 9
+159: hole punch | images: 9
+160: soda can | images: 9
+161: soup can | images: 9
+162: carrying case | images: 9
+163: thermometer box | images: 9
+164: keyboard | images: 9
+165: game controller | images: 9
+166: tape measure | images: 9
+167: sugar package | images: 9
+168: cable | images: 9
+169: spray bottle | images: 9
+170: tape dispenser | images: 9
+171: cable | images: 9
+172: tissue box | images: 9
+173: water bottle | images: 9
+174: headphone | images: 9
+175: food storage container | images: 9
+176: slipper | images: 9
+177: glasses box | images: 9
+178: travel pillow | images: 9
+179: folder | images: 9
+180: tea tin | images: 9
+181: soda can | images: 9
+182: flash drive | images: 9
+183: adapter cable | images: 9
+184: glove | images: 9
+185: cellphone | images: 9
+186: clamp | images: 9
+187: cup | images: 9
+188: peanut jar | images: 9
+189: umbrella | images: 9
+190: juice bottle | images: 9
+191: tofu package | images: 9
+192: palmolive bottle | images: 9
+193: knife | images: 9
+194: rinse aid bottle | images: 9
+195: milk frothing pitcher | images: 9
+196: scoop | images: 9
+197: basket | images: 9
+198: water bottle | images: 9
+199: eggplant | images: 9
+200: bell pepper | images: 9
+201: orange | images: 9
+202: onion | images: 9
+203: onion | images: 9
+204: ginger | images: 9
+205: watermelon | images: 9
+206: cucumber | images: 9
+207: banana | images: 9
+208: bell pepper | images: 9
+209: apple | images: 9
+210: apple | images: 9
+211: tomato | images: 9
+212: avocado | images: 9
+213: potato | images: 9
+214: sweet potato | images: 9
+215: garlic | images: 9
+216: cellphone | images: 9
+217: watch | images: 9
+218: wafer roll can | images: 9
+219: glove | images: 9
+220: jar | images: 9
+221: salt bottle | images: 9
+222: cup | images: 9
+223: potato masher | images: 9
+224: salt bottle | images: 9
+225: bowl | images: 9
+226: oven glove | images: 9
+227: spatula | images: 9
+228: peeler | images: 9
+229: ladle | images: 9
+230: ladle | images: 9
+231: potato starch package | images: 9
+232: muffin mix box | images: 9
+233: chili powder bottle | images: 9
+234: shaver | images: 9
+235: honey bottle | images: 9
+236: pizza cutter | images: 9
+237: cream jar | images: 9
+238: cereal box | images: 9
+239: ruler | images: 9
+240: milk box | images: 9
+241: salt can | images: 9
+242: spaghetti spoon | images: 9
+243: can opener | images: 9
+244: umbrella | images: 9
+245: wine glass | images: 9
+246: glass | images: 9
+247: charger | images: 9
+248: pill bottle | images: 9
+249: watch | images: 9
+250: scale | images: 9
+251: clock | images: 9
+252: spray bottle | images: 9
+253: hair brush | images: 9
+254: comb | images: 9
+255: lemon | images: 9
+256: trowel | images: 9
+257: milk box | images: 9
+258: glue bottle | images: 9
+259: juice pouch | images: 9
+260: plant vase | images: 9
+261: m&m's package | images: 9
+262: kiwi | images: 9
+263: coffee bottle | images: 9
+264: lint roller | images: 9
+265: goggle | images: 9
+266: goggle | images: 9
+267: goggle | images: 9
+268: bucket | images: 9
+269: arm filter holder | images: 9
+270: glass | images: 9
+271: glass | images: 9
+272: fig bar box | images: 9
+273: rinse aid bottle | images: 9
+274: mask | images: 9
+275: plate | images: 9
+276: label marker | images: 9
+277: slipper | images: 9
+278: root beer bottle | images: 9
+279: cream tube | images: 9
+280: cling wrap box | images: 9
+281: basting brush | images: 9
+282: binder | images: 9
+283: fly pan | images: 9
+284: handy pot | images: 9
+285: kettle | images: 9
+286: instant noodle packet | images: 9
+287: baking tray | images: 9
+288: baking tray | images: 9
+289: baking tray | images: 9
+290: scissors | images: 9
+291: camera | images: 9
+292: timer | images: 9
+293: wood box | images: 9
+294: wood plate | images: 9
+295: battery | images: 9
+296: wood pestle | images: 9
+297: rubik's cube | images: 9
+298: lego block | images: 9
+299: lego block | images: 9
+300: soda can | images: 9
+301: binder | images: 9
+302: flashlight | images: 9
+303: food bag | images: 9
+304: flashlight | images: 9
+305: ball | images: 9
+306: lemon | images: 9
+307: lime | images: 9
+308: lime | images: 9
+309: donut sticks box | images: 9
+310: ball | images: 9
+311: bulb box | images: 9
+312: cereal box | images: 9
+313: bulb box | images: 9
+314: tuna can | images: 9
+315: soda can | images: 9
+316: food bag | images: 9
+317: toothpaste | images: 9
+318: soup can | images: 9
+319: tuna can | images: 9
+320: toothpaste | images: 9
+321: soda can | images: 9
+322: shampoo bottle | images: 9
+323: cream tube | images: 9
+324: shampoo bottle | images: 9
+325: cereal box | images: 9
+326: food bag | images: 9
+327: soup can | images: 9
+328: cereal box | images: 9
+329: shampoo bottle | images: 9
+330: ball | images: 9
+331: chocolate banana box | images: 9
+332: clamp | images: 9
+333: glue stick | images: 9
+334: glue stick | images: 9
+335: glue stick | images: 9
+336: Pen | images: 120
+(cs4391) PS F:\F\School\3\CS4391\Pro>
+
+(cs4391) PS F:\F\School\3\CS4391\Pro> python .\make_split.py --root .\real_objects\
+Wrote: F:\F\School\3\CS4391\Pro\split.json
+Classes: 337
+Train/Val/Test: 1685/674/674
+(cs4391) PS F:\F\School\3\CS4391\Pro>
+
+(cs4391) PS F:\F\School\3\CS4391\Pro> python hw_part2_train_scratch_vs_pretrained.py --split split.json --model scratch --epochs 10 --tag scratch
+== Part 2: scratch ==
+Classes: 337
+Train/Val/Test: 1685/674/674
+Device: cuda
+Out: runs\part2\scratch
+Epoch 01/10  loss=5.8269  val_acc=0.30%
+Epoch 02/10  loss=5.8175  val_acc=0.59%
+Epoch 03/10  loss=5.7384  val_acc=1.19%
+Epoch 04/10  loss=5.4261  val_acc=1.48%
+Epoch 05/10  loss=5.0762  val_acc=2.67%
+Epoch 06/10  loss=4.8051  val_acc=3.12%
+Epoch 07/10  loss=4.5775  val_acc=3.56%
+Epoch 08/10  loss=4.4422  val_acc=4.90%
+Epoch 09/10  loss=4.3466  val_acc=4.90%
+Epoch 10/10  loss=4.2694  val_acc=4.90%
+TEST accuracy: 4.60%
+Wrote: runs\part2\scratch\predictions_test.csv
+Saved plot: runs\part2\scratch\training_curves.png
+(cs4391) PS F:\F\School\3\CS4391\Pro>
+
+(cs4391) PS F:\F\School\3\CS4391\Pro> python hw_part2_train_scratch_vs_pretrained.py --split split.json --model pretrained --pretrained --epochs 10 --save_best --tag pretrained_ft
+== Part 2: pretrained_ft ==
+Classes: 337
+Train/Val/Test: 1685/674/674
+Device: cuda
+Out: runs\part2\pretrained_ft
+Epoch 01/10  loss=5.6893  val_acc=8.75%
+Epoch 02/10  loss=3.3073  val_acc=57.57%
+Epoch 03/10  loss=1.5360  val_acc=74.33%
+Epoch 04/10  loss=0.7413  val_acc=71.66%
+Epoch 05/10  loss=0.3843  val_acc=87.09%
+Epoch 06/10  loss=0.2585  val_acc=86.94%
+Epoch 07/10  loss=0.2176  val_acc=88.43%
+Epoch 08/10  loss=0.2297  val_acc=86.50%
+Epoch 09/10  loss=0.1960  val_acc=94.21%
+Epoch 10/10  loss=0.1172  val_acc=91.99%
+TEST accuracy: 92.28%
+Wrote: runs\part2\pretrained_ft\predictions_test.csv
+Saved plot: runs\part2\pretrained_ft\training_curves.png
+(cs4391) PS F:\F\School\3\CS4391\Pro>
+
+(cs4391) PS F:\F\School\3\CS4391\Pro> python hw_part2_train_scratch_vs_pretrained.py --split split.json --model pretrained --pretrained --freeze_backbone --epochs 10 --save_best --tag pretrained_free
+== Part 2: pretrained_free_freeze ==
+Classes: 337
+Train/Val/Test: 1685/674/674
+Device: cuda
+Out: runs\part2\pretrained_free_freeze
+Epoch 01/10  loss=6.2637  val_acc=2.52%
+Epoch 02/10  loss=5.2182  val_acc=14.54%
+Epoch 03/10  loss=4.5233  val_acc=22.85%
+Epoch 04/10  loss=3.8968  val_acc=31.90%
+Epoch 05/10  loss=3.3734  val_acc=33.68%
+Epoch 06/10  loss=2.9272  val_acc=40.95%
+Epoch 07/10  loss=2.5262  val_acc=43.92%
+Epoch 08/10  loss=2.2086  val_acc=45.70%
+Epoch 09/10  loss=1.9143  val_acc=47.33%
+Epoch 10/10  loss=1.6708  val_acc=51.04%
+TEST accuracy: 47.63%
+Wrote: runs\part2\pretrained_free_freeze\predictions_test.csv
+Saved plot: runs\part2\pretrained_free_freeze\training_curves.png
+(cs4391) PS F:\F\School\3\CS4391\Pro>

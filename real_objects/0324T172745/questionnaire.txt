@@ -1,0 +1,10 @@
+1. What is the name of the object in these images?
+brush, stapler, glove, punching
+2. What is the category of the object in these images?
+cleaning, office tools, kitchen tool, tools
+3. What is the object in these images made of? (list all materials of the object)
+rubber, metal and plastic, silicone, plastic
+4. What can be the object in these images used for? (list all function of the object)
+cleaning, clipping paper, pick hot food, punching
+5. What is the color of the object in these images? (list all colors of the object)
+red

@@ -1,0 +1,10 @@
+1. What is the name of the object in these images?
+cleaner, cleaning duster container, office depot cleaning duster, cleaning duster, insect spray
+2. What is the category of the object in these images?
+utilities, cleaner, supplies, packaging, spray
+3. What is the object in these images made of? (list all materials of the object)
+plastic/metal, metal, plastic
+4. What can be the object in these images used for? (list all function of the object)
+cleaning, clean electronics and office equipment, dusting, spraying the insect spray
+5. What is the color of the object in these images? (list all colors of the object)
+white, white and red, red, black

@@ -1,0 +1,10 @@
+1. What is the name of the object in these images?
+box, tea powder
+2. What is the category of the object in these images?
+box, packaging, tools
+3. What is the object in these images made of? (list all materials of the object)
+metal, fiber, paper
+4. What can be the object in these images used for? (list all function of the object)
+stock, save, carry, store things, drinking, storing
+5. What is the color of the object in these images? (list all colors of the object)
+brown, red, white, black, gold

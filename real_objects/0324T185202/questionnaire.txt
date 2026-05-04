@@ -1,0 +1,10 @@
+1. What is the name of the object in these images?
+spoon, kitchen spoon, service spoon, pasta spoon
+2. What is the category of the object in these images?
+kitchen tool, kitchen set, utencil, serving cutlery
+3. What is the object in these images made of? (list all materials of the object)
+steel, silver, metal
+4. What can be the object in these images used for? (list all function of the object)
+serving pasta, to cook, serving foods
+5. What is the color of the object in these images? (list all colors of the object)
+silver, steel gray

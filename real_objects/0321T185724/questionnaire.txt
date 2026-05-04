@@ -1,0 +1,10 @@
+1. What is the name of the object in these images?
+spoon, sppon
+2. What is the category of the object in these images?
+kitchen acessory, utensil, cutlery
+3. What is the object in these images made of? (list all materials of the object)
+steel, metal
+4. What can be the object in these images used for? (list all function of the object)
+eat, mix juice, eating, food service
+5. What is the color of the object in these images? (list all colors of the object)
+silver, gray

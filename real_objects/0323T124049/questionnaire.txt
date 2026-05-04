@@ -1,0 +1,10 @@
+1. What is the name of the object in these images?
+cleaning sponge, sponge, scrubber
+2. What is the category of the object in these images?
+cleaning, kitchen supply, cleaning tool
+3. What is the object in these images made of? (list all materials of the object)
+polymer, foam, clothe material, wood pulp, chemicals
+4. What can be the object in these images used for? (list all function of the object)
+clean cutlery, cleaning things, to remove stains from kitchen vessels, cleaning
+5. What is the color of the object in these images? (list all colors of the object)
+yellow, gray, green

@@ -1,0 +1,10 @@
+1. What is the name of the object in these images?
+kitchen knife, knife, butter knife
+2. What is the category of the object in these images?
+kitchen acessory, utensil, kitchen tool
+3. What is the object in these images made of? (list all materials of the object)
+steel, metal
+4. What can be the object in these images used for? (list all function of the object)
+cut food and open packs, eating, food service, spreading butter
+5. What is the color of the object in these images? (list all colors of the object)
+silver, gray

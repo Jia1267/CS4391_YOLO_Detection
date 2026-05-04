@@ -1,0 +1,10 @@
+1. What is the name of the object in these images?
+ball, tennis ball, lawn tennis ball
+2. What is the category of the object in these images?
+sports, sport item, sport, toy, ball
+3. What is the object in these images made of? (list all materials of the object)
+rubber, felt, wool
+4. What can be the object in these images used for? (list all function of the object)
+playing, play, play tennis
+5. What is the color of the object in these images? (list all colors of the object)
+yellow, white and black, white, black, light yellow

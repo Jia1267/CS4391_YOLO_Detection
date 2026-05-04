@@ -1,0 +1,10 @@
+1. What is the name of the object in these images?
+pirell, hand sanitizer, sanitizer, purell hand sanitizer, mouth wash
+2. What is the category of the object in these images?
+hand sanitizer, personal hygiene, hygiene, sanitizer, cleaning
+3. What is the object in these images made of? (list all materials of the object)
+plastic, alcohol, desinfectant
+4. What can be the object in these images used for? (list all function of the object)
+clean hands, clean, cleaning, desinfecting
+5. What is the color of the object in these images? (list all colors of the object)
+red, blue, white, transparent

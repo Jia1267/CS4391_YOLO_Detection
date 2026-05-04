@@ -1,0 +1,10 @@
+1. What is the name of the object in these images?
+spam meat can, tin
+2. What is the category of the object in these images?
+can, packing, packaging
+3. What is the object in these images made of? (list all materials of the object)
+metal, paper
+4. What can be the object in these images used for? (list all function of the object)
+eating, store thinsgs, conserves, food packaging
+5. What is the color of the object in these images? (list all colors of the object)
+blue, yellow, brown, red, green, gold, pink, golden

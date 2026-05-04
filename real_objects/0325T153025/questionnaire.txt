@@ -1,0 +1,10 @@
+1. What is the name of the object in these images?
+toys, rattle, wooden pestle
+2. What is the category of the object in these images?
+toys, musical instrument, toy, instrument, kitchen product
+3. What is the object in these images made of? (list all materials of the object)
+wood, plastic
+4. What can be the object in these images used for? (list all function of the object)
+play, sound production, playing, crumple food
+5. What is the color of the object in these images? (list all colors of the object)
+brown, orange, blue, beige, yellow

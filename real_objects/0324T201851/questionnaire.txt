@@ -1,0 +1,10 @@
+1. What is the name of the object in these images?
+glass, glass cup
+2. What is the category of the object in these images?
+table item, cup, crockery
+3. What is the object in these images made of? (list all materials of the object)
+glass
+4. What can be the object in these images used for? (list all function of the object)
+drinking, drink, drinking water, juice etc
+5. What is the color of the object in these images? (list all colors of the object)
+transparent

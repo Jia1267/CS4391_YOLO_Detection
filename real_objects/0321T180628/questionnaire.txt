@@ -1,0 +1,10 @@
+1. What is the name of the object in these images?
+ball, foot ball, football
+2. What is the category of the object in these images?
+sports, sports item, sport, toy, ball
+3. What is the object in these images made of? (list all materials of the object)
+rubber/plastic, play, plastic, latex, rubber
+4. What can be the object in these images used for? (list all function of the object)
+playing, latex and rubber, play
+5. What is the color of the object in these images? (list all colors of the object)
+blue/yellow, blue and yellow, blue, yellow

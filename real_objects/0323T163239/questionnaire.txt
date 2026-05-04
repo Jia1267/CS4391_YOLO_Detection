@@ -1,0 +1,10 @@
+1. What is the name of the object in these images?
+thermometer, box of thermometer, razor, bemcom thermometer, box
+2. What is the category of the object in these images?
+medical, box, instruments, infrared thermometer, packing
+3. What is the object in these images made of? (list all materials of the object)
+plastic, paper, hi-end plastics, electronic board, wires, lights, display, cardboard
+4. What can be the object in these images used for? (list all function of the object)
+temperature check, measure temperature, beauty, hair removal, checking temperature, packing items
+5. What is the color of the object in these images? (list all colors of the object)
+white, green, blue, grey

@@ -1,0 +1,10 @@
+1. What is the name of the object in these images?
+gloves, glove, baking gloves, oven mittens
+2. What is the category of the object in these images?
+safety material, hand cover, gloves, protecting tool
+3. What is the object in these images made of? (list all materials of the object)
+cloth, woollen
+4. What can be the object in these images used for? (list all function of the object)
+protecting hands from heat, to cover hand, to hold baking tray, protect hands
+5. What is the color of the object in these images? (list all colors of the object)
+blue, light blue

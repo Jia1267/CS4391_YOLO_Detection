@@ -1,0 +1,10 @@
+1. What is the name of the object in these images?
+keyboard, hp
+2. What is the category of the object in these images?
+accessories, component, instruments, keyboard, input device
+3. What is the object in these images made of? (list all materials of the object)
+plastic, buttons, electronic board
+4. What can be the object in these images used for? (list all function of the object)
+computering, typing, typing words, alpha numerics, typing messages, typing on computer, giving input to the computer
+5. What is the color of the object in these images? (list all colors of the object)
+black, white

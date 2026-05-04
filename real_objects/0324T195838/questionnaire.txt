@@ -1,0 +1,10 @@
+1. What is the name of the object in these images?
+glasses, safety glasses, protection glasses, spectacles, safety goggles
+2. What is the category of the object in these images?
+personal item, safety tool, security, glass, protective tool
+3. What is the object in these images made of? (list all materials of the object)
+plastic, glass, metal, steel, plastics, fiber
+4. What can be the object in these images used for? (list all function of the object)
+vision correction, to protect your eyes, protect the vision, clear view of objects, good eye sight, protect eyes
+5. What is the color of the object in these images? (list all colors of the object)
+black, brown, orange and transparent, orange, red, transparent

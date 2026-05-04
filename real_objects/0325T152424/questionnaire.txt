@@ -1,0 +1,10 @@
+1. What is the name of the object in these images?
+timer, stopwatch, chronometer
+2. What is the category of the object in these images?
+tools, eletronic, tool, measurements
+3. What is the object in these images made of? (list all materials of the object)
+plastic, rubber, liquid crystal, metal, glass
+4. What can be the object in these images used for? (list all function of the object)
+reminding, timing time, measure, set a timer, timing
+5. What is the color of the object in these images? (list all colors of the object)
+white, black, red, gray

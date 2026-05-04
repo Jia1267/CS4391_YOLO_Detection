@@ -1,0 +1,10 @@
+1. What is the name of the object in these images?
+a box of eggs, a dozen of large white eggs' box, egg box, egg carton
+2. What is the category of the object in these images?
+box, package
+3. What is the object in these images made of? (list all materials of the object)
+cardboard, paper
+4. What can be the object in these images used for? (list all function of the object)
+eating, to conserve the eggs
+5. What is the color of the object in these images? (list all colors of the object)
+grey, blue, grey and blue, gray

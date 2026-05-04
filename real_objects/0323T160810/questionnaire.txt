@@ -1,0 +1,10 @@
+1. What is the name of the object in these images?
+chocolate bar, single serve protein bar, protein bar, chocolate
+2. What is the category of the object in these images?
+packaging, food, chocolate
+3. What is the object in these images made of? (list all materials of the object)
+plastic, chocolate
+4. What can be the object in these images used for? (list all function of the object)
+eating, snack
+5. What is the color of the object in these images? (list all colors of the object)
+brown, white, white & brown, black

@@ -1,0 +1,10 @@
+1. What is the name of the object in these images?
+apple and carrot, apple juice, apple and carrot pur&#233;e flask, fruit sauce, fruit juice
+2. What is the category of the object in these images?
+food, fruit pulp, alimentary
+3. What is the object in these images made of? (list all materials of the object)
+plastic, paper, fruits, liquids, sugar, additives, water &vitamins, probably minerals
+4. What can be the object in these images used for? (list all function of the object)
+drink, drinking, eating, to drink
+5. What is the color of the object in these images? (list all colors of the object)
+white, red, orange, blue, red green white blue

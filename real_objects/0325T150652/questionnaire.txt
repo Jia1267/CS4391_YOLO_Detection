@@ -1,0 +1,10 @@
+1. What is the name of the object in these images?
+brush, kitchen brush
+2. What is the category of the object in these images?
+office tools, cooking utensil, kitchen tool
+3. What is the object in these images made of? (list all materials of the object)
+plastic, silicon
+4. What can be the object in these images used for? (list all function of the object)
+clean keyboard, to paint oil on the food items, spreading oil, butter
+5. What is the color of the object in these images? (list all colors of the object)
+red and white, white, red, orange

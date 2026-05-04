@@ -1,0 +1,10 @@
+1. What is the name of the object in these images?
+juice bottle, a drink, bottle, aloe drink, aloe drink bottle
+2. What is the category of the object in these images?
+bottle, juice items, drinks, beverage, drink, food
+3. What is the object in these images made of? (list all materials of the object)
+plastic, fibre
+4. What can be the object in these images used for? (list all function of the object)
+store juice, drinks, drinking, store liquid, to drink
+5. What is the color of the object in these images? (list all colors of the object)
+orange, white, black, green, white orange yellow, yellow, transparent

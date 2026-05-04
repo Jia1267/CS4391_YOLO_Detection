@@ -1,0 +1,10 @@
+1. What is the name of the object in these images?
+bottle, wine, wine bottle
+2. What is the category of the object in these images?
+container, alcohol, beverages, alcoholic beverage, bottle
+3. What is the object in these images made of? (list all materials of the object)
+glass, cork, paper, grapes, yeast
+4. What can be the object in these images used for? (list all function of the object)
+containing liquid, to drink, to store wine to be drank later, store wine, drinking wine, drinking
+5. What is the color of the object in these images? (list all colors of the object)
+green, white, black, beige, red, yellow

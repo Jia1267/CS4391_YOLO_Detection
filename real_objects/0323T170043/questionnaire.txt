@@ -1,0 +1,10 @@
+1. What is the name of the object in these images?
+pillow, neck pillow, travel pillow
+2. What is the category of the object in these images?
+comfort, home supply, pillow
+3. What is the object in these images made of? (list all materials of the object)
+cotton cloth, cotton, synthetics, cloth, foam
+4. What can be the object in these images used for? (list all function of the object)
+lay down, supports your neck and head, resting the neck while traveling
+5. What is the color of the object in these images? (list all colors of the object)
+grey, gray and white, gray

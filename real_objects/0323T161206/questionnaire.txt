@@ -1,0 +1,10 @@
+1. What is the name of the object in these images?
+plier, pliers
+2. What is the category of the object in these images?
+tools, home utensil, hand tools
+3. What is the object in these images made of? (list all materials of the object)
+metal, plastic, steel and plastic, rubber
+4. What can be the object in these images used for? (list all function of the object)
+pinch, to fix something, to build something, tighten, hold, repairs, plumbing, carpentry, electrical
+5. What is the color of the object in these images? (list all colors of the object)
+grey, yellow, black, silver

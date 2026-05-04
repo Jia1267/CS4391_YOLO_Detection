@@ -1,0 +1,10 @@
+1. What is the name of the object in these images?
+bottle, laundry detergent, detergent, milk jug, chlorine bottle
+2. What is the category of the object in these images?
+container, household essentials, cleaning product, drink
+3. What is the object in these images made of? (list all materials of the object)
+plastic, fragrance, dyes, water, sulfate, chlorine, bleach, milk
+4. What can be the object in these images used for? (list all function of the object)
+containing liquid, used to put in washing machine when washing clothes, cleaning, store milk, drink milk, pour milk
+5. What is the color of the object in these images? (list all colors of the object)
+white, blue, red

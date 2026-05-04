@@ -1,0 +1,10 @@
+1. What is the name of the object in these images?
+facial cleanser, hydrating, cleanser, handwash pump
+2. What is the category of the object in these images?
+beauty product, personal hygiene, beauty, storage
+3. What is the object in these images made of? (list all materials of the object)
+plastic, hydrating, cleanser
+4. What can be the object in these images used for? (list all function of the object)
+face cleaning, hydrating skin, make up removal, cleansing face, storing liquid soap
+5. What is the color of the object in these images? (list all colors of the object)
+white, green, blue, black, red

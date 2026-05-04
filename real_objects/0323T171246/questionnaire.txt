@@ -1,0 +1,10 @@
+1. What is the name of the object in these images?
+glove, hand glove
+2. What is the category of the object in these images?
+accessory, clothing, cloathing, body safety accessories, utensils
+3. What is the object in these images made of? (list all materials of the object)
+plastic, wool, tissue, rubber
+4. What can be the object in these images used for? (list all function of the object)
+wearing, wear, protect hands, keep hands worm, covering hands, safety
+5. What is the color of the object in these images? (list all colors of the object)
+red, gray, orange, pink, brown

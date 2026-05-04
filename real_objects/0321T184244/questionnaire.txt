@@ -1,0 +1,10 @@
+1. What is the name of the object in these images?
+spoon, ladle
+2. What is the category of the object in these images?
+utensils, cooking utensil, utensil
+3. What is the object in these images made of? (list all materials of the object)
+plastic, metal
+4. What can be the object in these images used for? (list all function of the object)
+eating, cooking, eating food, stir food, serve food, serving food, measure, mix, stir and toss ingredients in food preparation
+5. What is the color of the object in these images? (list all colors of the object)
+black

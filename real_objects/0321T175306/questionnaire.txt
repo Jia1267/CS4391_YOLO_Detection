@@ -1,0 +1,10 @@
+1. What is the name of the object in these images?
+mug, cup
+2. What is the category of the object in these images?
+utensils, crockery, tableware, cup
+3. What is the object in these images made of? (list all materials of the object)
+wood/ceramic, ceramic, glass
+4. What can be the object in these images used for? (list all function of the object)
+eating, drinking, drinking coffe
+5. What is the color of the object in these images? (list all colors of the object)
+white, red and green, orange, green, red

@@ -1,0 +1,10 @@
+1. What is the name of the object in these images?
+scissors, scissor
+2. What is the category of the object in these images?
+tools, school tool, utensil, cutting, tool
+3. What is the object in these images made of? (list all materials of the object)
+metal, plastic
+4. What can be the object in these images used for? (list all function of the object)
+cutting, cut paper, cut, cutting paper, cutting tissue
+5. What is the color of the object in these images? (list all colors of the object)
+orange, silver, red, white, metallic, pink

@@ -1,0 +1,10 @@
+1. What is the name of the object in these images?
+cellphone, cell, phone, mobile phone, mobile
+2. What is the category of the object in these images?
+technology, eletronic, electronics, electronic device
+3. What is the object in these images made of? (list all materials of the object)
+metal, glass, plastic
+4. What can be the object in these images used for? (list all function of the object)
+take pictures, make contact with others, call, send texts, text, use the internet, telecommunication, speaking
+5. What is the color of the object in these images? (list all colors of the object)
+black, gray, silver

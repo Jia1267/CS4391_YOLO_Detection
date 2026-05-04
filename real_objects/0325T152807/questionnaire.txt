@@ -1,0 +1,10 @@
+1. What is the name of the object in these images?
+battery, alkaline battery
+2. What is the category of the object in these images?
+power, battery, electronic, electric product
+3. What is the object in these images made of? (list all materials of the object)
+iron, metal, , steel
+4. What can be the object in these images used for? (list all function of the object)
+charging, energize electronics, charge, energize, power electronic devices, gives energy
+5. What is the color of the object in these images? (list all colors of the object)
+red, black, white, gray, silver

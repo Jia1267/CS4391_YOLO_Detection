@@ -1,0 +1,10 @@
+1. What is the name of the object in these images?
+clothes peg, clamp, plier, pliers, clip
+2. What is the category of the object in these images?
+object, tools, tool
+3. What is the object in these images made of? (list all materials of the object)
+plastic, rubber, metal
+4. What can be the object in these images used for? (list all function of the object)
+fasten, pin, tighten, hold, hold things together, press objects, holding an object, picking
+5. What is the color of the object in these images? (list all colors of the object)
+black, red, orange, pink

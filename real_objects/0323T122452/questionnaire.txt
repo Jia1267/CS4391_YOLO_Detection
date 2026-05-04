@@ -1,0 +1,10 @@
+1. What is the name of the object in these images?
+towel, hand towel
+2. What is the category of the object in these images?
+bathroom linen, bathroom, home accesories, bath, hygiene material
+3. What is the object in these images made of? (list all materials of the object)
+fabric, 100% cotton, cotton, cloath
+4. What can be the object in these images used for? (list all function of the object)
+drying, warmth, comfort, used for drying hands after washing them in the bathroom or kitchen, dry things
+5. What is the color of the object in these images? (list all colors of the object)
+turquoise, aqua, light blue, blue
